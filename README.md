@@ -13,7 +13,10 @@
  * lamar@psu.edu
  * Password123
  * 7
- * 
+ * Cyber
+ 
+Each major should have its own folder within Utils, in each folder should be a names.txt and a randomNames.txt
+
  ******* names.txt Format *******
  * This file contains the mandatory names to be included in every kudoboard.
  * These are the mandatory posts required for every kudoboard of this major.
@@ -49,3 +52,7 @@
  * it represents. For example, Lauren Pearl's picture for her post should be named
  * "Lauren Pearl" the extension is ignored during reading so it is okay if it is a
  * jpg/png/jpeg etc.
+ *
+ ******* students.txt ********
+ * This should contain a list of each student to be receiving a kudoboard on each line (first and last name on one line)
+ * The format is the same as names.txt
