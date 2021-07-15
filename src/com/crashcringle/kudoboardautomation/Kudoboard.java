@@ -114,10 +114,8 @@ public class Kudoboard {
             e.getStackTrace();
             
             }
-            finally {
-                driver.quit();
-            }
-        } 
+        }
+        driver.quit();
     }
      public List<String> promptNames() {
         boolean flag = false;
